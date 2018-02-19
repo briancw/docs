@@ -1,0 +1,1 @@
+A collection of useful information, standards, and opinions on how to develop
